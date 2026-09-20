@@ -2,7 +2,7 @@
 
 A Qt6 GUI application for managing sched-ext BPF schedulers via `scxctl`.
 
-**USE AT OWN RISK**
+**USE AT YOUR OWN RISK**
 
 ![Version](https://img.shields.io/badge/version-1.0.1-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
